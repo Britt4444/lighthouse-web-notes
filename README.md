@@ -1,1 +1,1 @@
-# Britt C's Notes
+# Britt's Notes
