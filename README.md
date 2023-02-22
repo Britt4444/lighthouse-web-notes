@@ -4,3 +4,8 @@
 
 This repository contains all of the notes taken by [Britt C](https://github.com/Britt4444) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Dev Flex program
 
+## Table of Contents
+
+* [Week_1](/Week_1/)
+  * [Day_1](/Week_1/Day_1/)
+
