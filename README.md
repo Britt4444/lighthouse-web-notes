@@ -16,8 +16,12 @@ This repository contains all of the notes taken by [Britt C](https://github.com/
   
 * [Week_3](/Week_3/)
   * [Day_1](/Week_3/Day_1/)
-  * [Mock_Test](/Week_3/Mock_Test/)
+  * [Mock_Test]
   
 * [Week_4](/Week_4/)
   * [Async_Control_Flow](/Week_4/Async_Control_Flow/)
-  * [Test_1](/Week_4/Day_2/)
+  * [Test_1]
+
+* [Week_5](/Week_5/)
+  * [TCP-HTTP-Networking](/Week_4/TCP-HTTP-Networking/)
+  * [Promises](/Week_4/Promises/)
